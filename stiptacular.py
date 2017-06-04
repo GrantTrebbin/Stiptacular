@@ -206,8 +206,8 @@ def polygon_intersect_y(poly, y_val):
 
 # https://gist.github.com/pv/8036995
 image_filename = "graceKelly.jpg"
-number_of_points = 200
-dot_radius = 5
+number_of_points = 30000
+dot_radius = 0.5
 non_dithering_iterations = 5
 dithering_iterations = 5
 
